@@ -1,0 +1,9 @@
+pandas
+numpy
+io
+datetime
+pdfplumber
+string
+plotly
+re
+requests
