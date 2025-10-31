@@ -16,3 +16,6 @@ We will obtain the text from the pdf files from the links to the last eight summ
 - Count the number of positive and negative words for each report according to each of the two lexicon dictionaries
 - Calculate the normalised sentiment scores according to each of the two lexicon dictionaries
 - Plot charts showing the results
+
+View my Colab notebook here: 
+<img width="1549" height="524" alt="newplot" src="https://github.com/user-attachments/assets/e9e3a939-e6e0-4790-819c-1cf597cc2954" />
