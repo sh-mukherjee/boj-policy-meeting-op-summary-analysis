@@ -17,5 +17,6 @@ We will obtain the text from the pdf files from the links to the last eight summ
 - Calculate the normalised sentiment scores according to each of the two lexicon dictionaries
 - Plot charts showing the results
 
-View my Colab notebook here: 
+View my Colab notebook [here](https://colab.research.google.com/github/sh-mukherjee/boj-policy-meeting-op-summary-analysis/blob/main/BoJ_Monetary_Policy_Op_Summary.ipynb).
+
 <img width="1549" height="524" alt="newplot" src="https://github.com/user-attachments/assets/e9e3a939-e6e0-4790-819c-1cf597cc2954" />
