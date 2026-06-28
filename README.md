@@ -1,4 +1,4 @@
-# Sentiment Analysis of the Last Eight Bank of Japan Opinion Summary Reports 
+# Sentiment Analysis of Eight Bank of Japan Opinion Summary Reports from Oct 2024 to Sep 2025
 Natural Language Processing -- Lexicon-based sentiment analysis of the BoJ Monetary Policy Meeting Opinion Summary reports.
 
 ### The Bank of Japan is the central bank of Japan.
